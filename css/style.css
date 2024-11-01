@@ -1,0 +1,43 @@
+.bk_WPArchivesTree .elements {
+	display: none;
+}
+
+.bk_WPArchivesTree .elements li {
+	list-style-type: none;
+}
+
+.bk_WPArchivesTree .elements .subitemlist {
+	display: none;
+}
+
+.bk_WPArchivesTree .elements .subitem {
+	margin-left: 16px;
+}
+
+.bk_WPArchivesTree .elements .title {
+	font-weight: bold;
+	text-transform: capitalize;
+	cursor: pointer;
+}
+
+.bk_WPArchivesTree .elements .dashicons {
+	box-shadow: none!important;
+	vertical-align: middle;
+}
+
+.bk_WPArchivesTree .elements .arrowdown {
+	display: none;
+}
+
+.bk_WPArchivesTree .elements a {
+	font-size: 11px;
+}
+
+.bk_WPArchivesTree .loading {
+    padding: 10px;
+    text-align: center;
+}
+
+.bk_WPArchivesTree .loading img {
+	box-shadow: none;
+}
